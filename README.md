@@ -1,4 +1,4 @@
-# Sumé LMS public roadmap
+# Sumé LMS Public Roadmap
 
 :stars: View the [official Sumé LMS public product roadmap](https://github.com/orgs/sumelms/projects/4/views/1)
 
